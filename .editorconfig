@@ -12,5 +12,5 @@ trim_trailing_whitespace = true
 
 # Tab indentation (no size specified)
 [*.{go,sql}]
-indent_size = 8
+indent_size = 4
 indent_style = tab
